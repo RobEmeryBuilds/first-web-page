@@ -1,2 +1,2 @@
 # first-web-page
-my first webpage HTML only.
+My first webpage HTML only on my learnng path in RWD.
